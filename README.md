@@ -24,7 +24,7 @@
 ## NOTES 📝
 * Minimum Python Version : `3.10.1`
 
-* This is a simple project & the there isn't any `Database`
+* This is a simple project & there isn't any `Database`
 
 * To See `Animal List With Information`
 ```
